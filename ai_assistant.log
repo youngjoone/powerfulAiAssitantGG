@@ -1,0 +1,88 @@
+2025-07-31 20:05:41,349 - file_manager - INFO - FileManager initialized with base path: /Users/kyj/powerfulAiAssistant/powerfulAiAssitantGG
+2025-07-31 20:05:41,377 - ai_assistant - INFO - OpenAI client initialized successfully
+2025-07-31 20:05:41,377 - ai_assistant - WARNING - Gemini API key not found in environment variables
+2025-07-31 20:06:50,744 - file_manager - INFO - FileManager initialized with base path: /Users/kyj/powerfulAiAssistant/powerfulAiAssitantGG
+2025-07-31 20:06:50,766 - ai_assistant - INFO - OpenAI client initialized successfully
+2025-07-31 20:06:50,766 - ai_assistant - WARNING - Gemini API key not found in environment variables
+2025-07-31 20:07:09,880 - file_manager - INFO - FileManager initialized with base path: /Users/kyj/powerfulAiAssistant/powerfulAiAssitantGG
+2025-07-31 20:07:09,901 - ai_assistant - INFO - OpenAI client initialized successfully
+2025-07-31 20:07:09,901 - ai_assistant - WARNING - Gemini API key not found in environment variables
+2025-07-31 20:07:29,866 - file_manager - INFO - FileManager initialized with base path: /Users/kyj/powerfulAiAssistant/powerfulAiAssitantGG
+2025-07-31 20:07:29,887 - ai_assistant - INFO - OpenAI client initialized successfully
+2025-07-31 20:07:29,887 - ai_assistant - WARNING - Gemini API key not found in environment variables
+2025-07-31 20:08:48,264 - file_manager - INFO - FileManager initialized with base path: /Users/kyj/powerfulAiAssistant/powerfulAiAssitantGG
+2025-07-31 20:08:48,287 - ai_assistant - INFO - OpenAI client initialized successfully
+2025-07-31 20:08:48,287 - ai_assistant - WARNING - Gemini API key not found in environment variables
+2025-07-31 20:12:24,995 - file_manager - INFO - FileManager initialized with base path: /Users/kyj/powerfulAiAssistant/powerfulAiAssitantGG
+2025-07-31 20:12:25,017 - ai_assistant - INFO - OpenAI client initialized successfully
+2025-07-31 20:12:25,017 - ai_assistant - WARNING - Gemini API key not found in environment variables
+2025-07-31 20:16:00,724 - file_manager - INFO - FileManager initialized with base path: /Users/kyj/powerfulAiAssistant/powerfulAiAssitantGG
+2025-07-31 20:16:00,746 - ai_assistant - INFO - OpenAI client initialized successfully
+2025-07-31 20:16:00,755 - ai_assistant - INFO - Gemini client initialized successfully
+2025-07-31 20:16:44,353 - file_manager - INFO - FileManager initialized with base path: /Users/kyj/powerfulAiAssistant/powerfulAiAssitantGG
+2025-07-31 20:16:44,374 - ai_assistant - INFO - OpenAI client initialized successfully
+2025-07-31 20:16:44,383 - ai_assistant - INFO - Gemini client initialized successfully
+2025-07-31 20:16:50,461 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-31 20:16:50,472 - google_genai.models - INFO - AFC is enabled with max remote calls: 10.
+2025-07-31 20:17:16,738 - httpx - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent "HTTP/1.1 200 OK"
+2025-07-31 20:17:16,744 - google_genai.models - INFO - AFC remote call 1 is done.
+2025-07-31 20:18:36,846 - file_manager - INFO - FileManager initialized with base path: /Users/kyj/powerfulAiAssistant/powerfulAiAssitantGG
+2025-07-31 20:18:36,868 - ai_assistant - INFO - OpenAI client initialized successfully
+2025-07-31 20:18:36,877 - ai_assistant - INFO - Gemini client initialized successfully
+2025-07-31 20:18:41,196 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-31 20:18:41,213 - google_genai.models - INFO - AFC is enabled with max remote calls: 10.
+2025-07-31 20:18:50,229 - httpx - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent "HTTP/1.1 200 OK"
+2025-07-31 20:18:50,232 - google_genai.models - INFO - AFC remote call 1 is done.
+2025-08-01 18:27:45,263 - file_manager - INFO - FileManager initialized with base path: /Users/kyj/powerfulAiAssistant/powerfulAiAssitantGG
+2025-08-01 18:27:45,288 - ai_assistant - INFO - OpenAI client initialized successfully
+2025-08-01 18:27:45,296 - ai_assistant - INFO - Gemini client initialized successfully
+2025-08-01 18:28:38,261 - file_manager - INFO - FileManager initialized with base path: /Users/kyj/powerfulAiAssistant/powerfulAiAssitantGG
+2025-08-01 18:28:38,283 - ai_assistant - INFO - OpenAI client initialized successfully
+2025-08-01 18:28:38,291 - ai_assistant - INFO - Gemini client initialized successfully
+2025-08-01 18:28:38,892 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 401 Unauthorized"
+2025-08-01 18:28:38,898 - ai_assistant - ERROR - ChatGPT API error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************************************************************************************************************************YDEA. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+2025-08-01 18:29:03,599 - file_manager - INFO - FileManager initialized with base path: /Users/kyj/powerfulAiAssistant/powerfulAiAssitantGG
+2025-08-01 18:29:03,621 - ai_assistant - INFO - OpenAI client initialized successfully
+2025-08-01 18:29:03,630 - ai_assistant - INFO - Gemini client initialized successfully
+2025-08-01 18:29:04,211 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 401 Unauthorized"
+2025-08-01 18:29:04,216 - ai_assistant - ERROR - ChatGPT API error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************************************************************************************************************************YDEA. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+2025-08-01 18:29:14,472 - file_manager - INFO - FileManager initialized with base path: /Users/kyj/powerfulAiAssistant/powerfulAiAssitantGG
+2025-08-01 18:29:14,492 - ai_assistant - INFO - OpenAI client initialized successfully
+2025-08-01 18:29:14,500 - ai_assistant - INFO - Gemini client initialized successfully
+2025-08-01 18:29:14,978 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 401 Unauthorized"
+2025-08-01 18:29:14,982 - ai_assistant - ERROR - ChatGPT API error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************************************************************************************************************************YDEA. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+2025-08-01 18:29:44,289 - file_manager - INFO - FileManager initialized with base path: /Users/kyj/powerfulAiAssistant/powerfulAiAssitantGG
+2025-08-01 18:29:44,310 - ai_assistant - INFO - OpenAI client initialized successfully
+2025-08-01 18:29:44,318 - ai_assistant - INFO - Gemini client initialized successfully
+2025-08-01 18:29:44,749 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 401 Unauthorized"
+2025-08-01 18:29:44,751 - ai_assistant - ERROR - ChatGPT API error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************************************************************************************************************************YDEA. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+2025-08-01 18:30:19,333 - file_manager - INFO - FileManager initialized with base path: /Users/kyj/powerfulAiAssistant/powerfulAiAssitantGG
+2025-08-01 18:30:19,355 - ai_assistant - INFO - OpenAI client initialized successfully
+2025-08-01 18:30:19,364 - ai_assistant - INFO - Gemini client initialized successfully
+2025-08-01 18:30:19,868 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 401 Unauthorized"
+2025-08-01 18:30:19,870 - ai_assistant - ERROR - ChatGPT API error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************************************************************************************************************************YDEA. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+2025-08-01 18:30:35,189 - file_manager - INFO - FileManager initialized with base path: /Users/kyj/powerfulAiAssistant/powerfulAiAssitantGG
+2025-08-01 18:30:35,210 - ai_assistant - INFO - OpenAI client initialized successfully
+2025-08-01 18:30:35,219 - ai_assistant - INFO - Gemini client initialized successfully
+2025-08-01 18:30:35,865 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 401 Unauthorized"
+2025-08-01 18:30:35,871 - ai_assistant - ERROR - ChatGPT API error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************************************************************************************************************************YDEA. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+2025-08-01 18:31:06,712 - file_manager - INFO - FileManager initialized with base path: /Users/kyj/powerfulAiAssistant/powerfulAiAssitantGG
+2025-08-01 18:31:06,735 - ai_assistant - INFO - OpenAI client initialized successfully
+2025-08-01 18:31:06,743 - ai_assistant - INFO - Gemini client initialized successfully
+2025-08-01 18:31:07,299 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 401 Unauthorized"
+2025-08-01 18:31:07,303 - ai_assistant - ERROR - ChatGPT API error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************************************************************************************************************************YDEA. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+2025-08-01 18:31:39,723 - file_manager - INFO - FileManager initialized with base path: /Users/kyj/powerfulAiAssistant/powerfulAiAssitantGG
+2025-08-01 18:31:39,745 - ai_assistant - INFO - OpenAI client initialized successfully
+2025-08-01 18:31:39,754 - ai_assistant - INFO - Gemini client initialized successfully
+2025-08-01 18:31:40,307 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 401 Unauthorized"
+2025-08-01 18:31:40,309 - ai_assistant - ERROR - ChatGPT API error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************************************************************************************************************************YDEA. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+2025-08-01 18:31:52,896 - file_manager - INFO - FileManager initialized with base path: /Users/kyj/powerfulAiAssistant/powerfulAiAssitantGG
+2025-08-01 18:31:52,918 - ai_assistant - INFO - OpenAI client initialized successfully
+2025-08-01 18:31:52,926 - ai_assistant - INFO - Gemini client initialized successfully
+2025-08-01 18:31:53,433 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 401 Unauthorized"
+2025-08-01 18:31:53,437 - ai_assistant - ERROR - ChatGPT API error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************************************************************************************************************************YDEA. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+2025-08-01 18:32:36,208 - file_manager - INFO - FileManager initialized with base path: /Users/kyj/powerfulAiAssistant/powerfulAiAssitantGG
+2025-08-01 18:32:36,269 - ai_assistant - INFO - OpenAI client initialized successfully
+2025-08-01 18:32:36,278 - ai_assistant - INFO - Gemini client initialized successfully
+2025-08-01 18:32:36,901 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 401 Unauthorized"
+2025-08-01 18:32:36,904 - ai_assistant - ERROR - ChatGPT API error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************************************************************************************************************************YDEA. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
